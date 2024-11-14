@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "326326432983",
+    "project_id": "boldproperty-293d5",
+    "storage_bucket": "boldproperty-293d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326326432983:android:96fb8db3c81514f34b2c92",
+        "android_client_info": {
+          "package_name": "com.boldproperty.bold"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu0bzlwHXwxDkX6NUKr_HNVm2_NvG_RcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
